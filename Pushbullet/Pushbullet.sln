@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pushbullet", "Pushbullet\Pushbullet.csproj", "{97E219B1-5A83-42A5-9A78-8AF14A0DD30A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pushbullet.Tests", "Pushbullet.Tests\Pushbullet.Tests.csproj", "{C9714770-185C-45CF-B942-05D6DEAE362C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E219B1-5A83-42A5-9A78-8AF14A0DD30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E219B1-5A83-42A5-9A78-8AF14A0DD30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E219B1-5A83-42A5-9A78-8AF14A0DD30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E219B1-5A83-42A5-9A78-8AF14A0DD30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9714770-185C-45CF-B942-05D6DEAE362C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9714770-185C-45CF-B942-05D6DEAE362C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9714770-185C-45CF-B942-05D6DEAE362C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9714770-185C-45CF-B942-05D6DEAE362C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
